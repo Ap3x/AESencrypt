@@ -1,0 +1,14 @@
+C:\Users\NATONG01\source\repos\AESencrypt\AESencrypt\obj\Debug\AESencrypt.csproj.CoreCompileInputs.cache
+C:\Users\NATONG01\source\repos\AESencrypt\AESencrypt\bin\Debug\AESencrypt.exe.config
+C:\Users\NATONG01\source\repos\AESencrypt\AESencrypt\bin\Debug\AESencrypt.exe
+C:\Users\NATONG01\source\repos\AESencrypt\AESencrypt\bin\Debug\AESencrypt.pdb
+C:\Users\NATONG01\source\repos\AESencrypt\AESencrypt\obj\Debug\AESencrypt.exe
+C:\Users\NATONG01\source\repos\AESencrypt\AESencrypt\obj\Debug\AESencrypt.pdb
+C:\Users\NATONG01\source\repos\AESencrypt\AESencrypt\obj\Debug\AESencrypt.csprojAssemblyReference.cache
+E:\CODE\C#\AESencrypt\AESencrypt\bin\Debug\AESencrypt.exe.config
+E:\CODE\C#\AESencrypt\AESencrypt\bin\Debug\AESencrypt.exe
+E:\CODE\C#\AESencrypt\AESencrypt\bin\Debug\AESencrypt.pdb
+E:\CODE\C#\AESencrypt\AESencrypt\obj\Debug\AESencrypt.csprojAssemblyReference.cache
+E:\CODE\C#\AESencrypt\AESencrypt\obj\Debug\AESencrypt.csproj.CoreCompileInputs.cache
+E:\CODE\C#\AESencrypt\AESencrypt\obj\Debug\AESencrypt.exe
+E:\CODE\C#\AESencrypt\AESencrypt\obj\Debug\AESencrypt.pdb
